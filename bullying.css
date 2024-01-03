@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+b, a {
+    color: blueviolet;
+}
+
+b{
+    font-size: 20pt; 
+}
